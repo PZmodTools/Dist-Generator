@@ -15,10 +15,15 @@ Simplify the process of adding your Procedural Distributions content by supplyin
 
 The output contains the required Lua code for your Procedural Distributions mod file.
 
+<br>
+
+
+
+<br>
+
+-----
 ### usage: 
 ```
 distrib.py [-h] -modid MODID [-items ITEMS] [-itemsFile ITEMSFILE] [-loc LOCATIONS]
                   [-locFile LOCATIONSFILE] [-out OUTPUT]
 ```
-
------
