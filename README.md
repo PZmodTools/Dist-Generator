@@ -17,8 +17,7 @@ The output contains the required Lua code for your Procedural Distributions mod 
 
 <br>
 
-![][example]
-[example]: (https://github.com/PZmodTools/Dist-Generator/blob/caab9fb5d4c07d1ebda29132a6bb26db5363fbf5/run-example.png "example")
+![run-example](https://github.com/PZmodTools/Dist-Generator/assets/150877683/8d829cc6-2a4e-44ac-80fb-8e8e26e1a80e)
 
 <br>
 
