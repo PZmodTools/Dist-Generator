@@ -3,8 +3,9 @@ Generate Lua Procedural Distributions content for your Project Zomboid mod.
 
 
 
+usage: 
 ```
-usage: distrib.py [-h] -modid MODID [-items ITEMS] [-itemsFile ITEMSFILE] [-loc LOCATIONS]
+distrib.py [-h] -modid MODID [-items ITEMS] [-itemsFile ITEMSFILE] [-loc LOCATIONS]
                   [-locFile LOCATIONSFILE] [-out OUTPUT]
 ```
 
