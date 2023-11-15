@@ -13,9 +13,7 @@ Simplify the process of adding your Procedural Distributions content by supplyin
 
 <br>
 
-The output contains the required Lua code for your Procedural Distributions mod file.
-
-<br>
+The output contains the required Lua code for your Procedural Distributions mod file:
 
 ![run-example](https://github.com/PZmodTools/Dist-Generator/assets/150877683/8d829cc6-2a4e-44ac-80fb-8e8e26e1a80e)
 
